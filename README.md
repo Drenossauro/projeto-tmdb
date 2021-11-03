@@ -4,7 +4,7 @@
 ```
 ### O site é um catálogo de filmes, a página inicial mostra os filmes em cartaz atualmente, cada card mostra a data de lançamento, uma barra de progresso com a nota média do filme e um botão de detalhes que abre um modal com mais detalhes do filme.
 ```
-
+## Acesso rápido: https://drenossauro.github.io/projeto-tmdb/
 ## Project setup
 ```
 npm install
